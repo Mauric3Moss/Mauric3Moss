@@ -19,4 +19,4 @@ Languages:
 
 Active Repo:
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Mauric3Moss/SmallWorld&repo=SmallWorld)](https://github.com/Mauric3Moss/SmallWorld)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Mauric3Moss&repo=SmallWorld)](https://github.com/Mauric3Moss/SmallWorld)
